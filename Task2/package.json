@@ -1,0 +1,12 @@
+{
+  "name": "task2-todo-app-typescript",
+  "version": "1.0.0",
+  "description": "Todo List app built with TypeScript, HTML and CSS",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
